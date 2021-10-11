@@ -1,7 +1,6 @@
 # README
 
 ## ruby-on-rails-for-demo
-This is my first project for Ruby on Rails
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
